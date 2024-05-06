@@ -1,0 +1,77 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur."
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur."
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur."
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "webflow Development",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Ahuse",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur.",
+            "link": "view in GitHub"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "App Dashboard",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur.",
+            "link": "view in GitHub"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Easy Rent",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur.",
+            "link": "view in GitHub"
+        }
+    ],
+    "testimonial": [
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur.",
+            "author_name": "Elias Peters",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur.",
+            "author_name": "James Smith",
+            "author_designation": "Lious Vitton"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur.",
+            "author_name": "Glitter Jugbo",
+            "author_designation": "Essentials Design"
+        }
+    ]
+}
